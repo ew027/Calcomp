@@ -3,9 +3,9 @@ This is a .NET library to read Calcomp 907 plot files. Calcomp made electromecha
 
 ### Some sources of information
 
-The University of Edinburgh has a computing history archive which contains some Fortran (77?) code for the VAX 11 dating back to 1982 that would have been used to create plots in the 907 format. Reading through this code eventually allowed me to decode the file header, plot deltas and pen commands. There are other commands in this Fortran code that I should be able to decode given enough time. (http://history.dcs.ed.ac.uk/archive/apps/edwin/calcomp/vax.for)
+The University of Edinburgh has a computing history archive which contains some Fortran (77?) code for the VAX 11 dating back to 1982 that would have been used to create plots in the 907 format. Reading through this code eventually allowed me to decode the file header, plot deltas and pen commands. There are other commands in this Fortran code that I should be able to decode given enough time. http://history.dcs.ed.ac.uk/archive/apps/edwin/calcomp/vax.for
 
-Some Calcomp plotter manuals are archived in the Bitsavers archive, e.g. (http://bitsavers.trailing-edge.com/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf). This manual from 1976 doesn't specifically cover the 907 format but there enough similarities to give a rough idea of what the format involved.
+Some Calcomp plotter manuals are archived in the Bitsavers archive, e.g. http://bitsavers.trailing-edge.com/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf. This manual from 1976 doesn't specifically cover the 907 format but there enough similarities to give a rough idea of what the format involved.
 
 ## Getting started
 
