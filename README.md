@@ -9,7 +9,7 @@ Some Calcomp plotter manuals are archived in the Bitsavers archive, e.g. http://
 
 ## Getting started
 
-The solution should build on Visual Studio 2013 and later. To use the console application to convert a plot file:
+The solution should build in Visual Studio 2013 and later. To use the console application to convert a plot file:
 
     Calcomp2Png input.plt output.png [scalefactor] [-instructions]
 
